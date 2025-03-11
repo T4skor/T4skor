@@ -32,13 +32,17 @@ I'm a **17-year-old student** currently studying **1st year of Baccalaureate in 
 
 ## 🔥 Latest Activity
 
-<!-- Gráfico dinámico de actividad (puedes probar otras opciones si lo prefieres) -->
 [![Pablo's Activity Graph](https://activity-graph.herokuapp.com/graph?username=T4skor&theme=react-dark)](https://github.com/T4skor)
 
 ## 📫 Let's Connect!
 
-- **Instagram:** [@3d_t4skor](https://instagram.com/3d_t4skor)
-- **Discord:** [Pablo#8384](https://discord.com/users/838402580781858856)
+<a href="https://instagram.com/3d_t4skor">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://discord.com/users/838402580781858856">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about technology!
 
