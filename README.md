@@ -1,8 +1,3 @@
-<!-- Banner opcional (coloca la URL de tu imagen de banner) -->
-<p align="center">
-   <img src="https://github.com/T4skor/T4skor/blob/main/banner.png" alt="Banner Image" width="100%">
-</p>
-
 # Hello, I'm Pablo! 👋
 
 [![GitHub stars](https://img.shields.io/github/stars/T4skor?style=social)](https://github.com/T4skor) [![GitHub followers](https://img.shields.io/github/followers/T4skor?style=social)](https://github.com/T4skor)
