@@ -1,53 +1,52 @@
-# Hello, I'm Pablo! 👋
+<!-- GitHub Profile with Animations -->
+<h1 align="center">Hello, I'm Pablo! 👋</h1>
 
-## About Me
-
-I'm a **17-year-old student** currently studying **1st year of Baccalaureate in Spain**. I have a passion for technology, from coding in Python, JavaScript, and C++ to exploring 3D printing and server management. My goal is to learn as much as I can and apply my knowledge to real-world projects.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C92D&width=435&lines=17-year-old+Tech+Enthusiast;3D+Printing+%7C+Linux+%7C+Programming;Lover+of+Open+Source+%26+Cybersecurity" alt="Typing SVG" />
+</p>
 
 ## 🚀 My Interests & Goals
 
-- **Programming:** Constantly experimenting with new technologies and frameworks.
-- **3D Printing:** I enjoy creating and printing innovative designs.
-- **Servers & Linux:** Fascinated by server management, networking, and cloud tech.
-- **Open Source:** Love collaborating and contributing to community projects.
-
-**My Goals:**
-- Level up my coding skills with challenging projects.
-- Dive deeper into server and cloud management.
-- Make more open source contributions.
-- Innovate in 3D printing and design.
+<ul>
+  <li>💻 <b>Programming:</b> Experimenting with Python, JavaScript, and C++.</li>
+  <li>🎨 <b>3D Printing:</b> Creating and designing innovative prints.</li>
+  <li>📡 <b>Servers & Linux:</b> Passionate about networking and cloud tech.</li>
+  <li>🌍 <b>Open Source:</b> Love contributing to community projects.</li>
+</ul>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T4skor&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4skor&layout=compact&theme=radical" alt="Top Languages" width="48%">
-</div>
-
-[![GitHub stars](https://img.shields.io/github/stars/T4skor?style=social)](https://github.com/T4skor) [![GitHub followers](https://img.shields.io/github/followers/T4skor?style=social)](https://github.com/T4skor)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=T4skor&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4skor&layout=compact&theme=radical" width="48%">
+</p>
 
 ## 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=T4skor&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=T4skor&theme=radical">
+</p>
 
 ## 🔥 Latest Activity
-
-[![Pablo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=T4skor&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=T4skor&theme=react-dark">
+</p>
 
 ## 📫 Let's Connect!
-
-<a href="https://instagram.com/3d_t4skor">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://discord.com/users/838402580781858856">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-
-Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about technology!
-
----
+<p align="center">
+  <a href="https://instagram.com/3d_t4skor">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/838402580781858856">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=T4skor&color=yellow" alt="Profile Views">
+</p>
+
+<!-- Animated Icons -->
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/Y3YrKQ1GZ2pYY6AoBu/giphy.gif" width="50">
 </p>
