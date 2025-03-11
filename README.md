@@ -1,32 +1,54 @@
+<!-- Banner opcional (coloca la URL de tu imagen de banner) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/T4skor/T4skor/main/banner.png" alt="Banner Image" width="100%">
+</p>
+
 # Hello, I'm Pablo! 👋
 
 [![GitHub stars](https://img.shields.io/github/stars/T4skor?style=social)](https://github.com/T4skor) [![GitHub followers](https://img.shields.io/github/followers/T4skor?style=social)](https://github.com/T4skor)
 
 ## About Me
 
-I'm a 17-year-old student currently studying 1st year of Baccalaureate in Spain. I have a passion for technology, especially programming, 3D printing, and servers. My main goal is to learn as much as I can and apply my knowledge to real-world projects.
+I'm a **17-year-old student** currently studying **1st year of Baccalaureate in Spain**. I have a passion for technology, from coding in Python, JavaScript, and C++ to exploring 3D printing and server management. My goal is to learn as much as I can and apply my knowledge to real-world projects.
 
-## My Interests
+## 🚀 My Interests & Goals
 
-- **Programming:** I enjoy coding in languages like Python, JavaScript, and C++. I'm always on the lookout for new technologies and frameworks.
-- **3D Printing:** Experimenting with 3D designs and printing is one of my hobbies. I love creating useful and creative objects.
-- **Servers & Linux:** I'm fascinated by servers, networking, and the Linux environment. I'm constantly learning more about server management and Linux administration.
-- **Open Source:** I believe in the power of open source and love contributing to projects when I can.
+- **Programming:** Constantly experimenting with new technologies and frameworks.
+- **3D Printing:** I enjoy creating and printing innovative designs.
+- **Servers & Linux:** Fascinated by server management, networking, and cloud tech.
+- **Open Source:** Love collaborating and contributing to community projects.
 
-## My Goals
+**My Goals:**
+- Level up my coding skills with challenging projects.
+- Dive deeper into server and cloud management.
+- Make more open source contributions.
+- Innovate in 3D printing and design.
 
-- Continue to improve my programming skills by working on complex projects.
-- Learn more about server management and cloud technologies.
-- Contribute to more open-source projects.
-- Expand my knowledge in 3D printing and design.
+## 📊 GitHub Stats
 
-## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=T4skor&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4skor&layout=compact&theme=radical" alt="Top Languages" width="48%">
+</div>
 
-![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=T4skor&show_icons=true&theme=radical)
+## 🏆 GitHub Trophies
 
-## Let's Connect!
+[![Trophies](https://github-profile-trophy.vercel.app/?username=T4skor&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-- **[Instagram](https://instagram.com/3d_t4skor)**
-- **[Discord](https://discord.com/users/838402580781858856)**
+## 🔥 Latest Activity
 
-Feel free to check out my repositories and get in touch if you'd like to collaborate or just chat about technology!
+<!-- Gráfico dinámico de actividad (puedes probar otras opciones si lo prefieres) -->
+[![Pablo's Activity Graph](https://activity-graph.herokuapp.com/graph?username=T4skor&theme=react-dark)](https://github.com/T4skor)
+
+## 📫 Let's Connect!
+
+- **Instagram:** [@3d_t4skor](https://instagram.com/3d_t4skor)
+- **Discord:** [Pablo#8384](https://discord.com/users/838402580781858856)
+
+Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about technology!
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=T4skor&color=yellow" alt="Profile Views">
+</p>
