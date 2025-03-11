@@ -1,6 +1,6 @@
 <!-- Banner opcional (coloca la URL de tu imagen de banner) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/T4skor/T4skor/main/banner.png" alt="Banner Image" width="100%">
+  <img src="https://raw.githubusercontent.com/T4skor/banner.png" alt="Banner Image" width="100%">
 </p>
 
 # Hello, I'm Pablo! 👋
