@@ -32,7 +32,7 @@ I'm a **17-year-old student** currently studying **1st year of Baccalaureate in 
 
 ## 🔥 Latest Activity
 
-[![Pablo's Activity Graph](https://activity-graph.herokuapp.com/graph?username=T4skor&theme=react-dark)](https://github.com/T4skor)
+[![Pablo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=T4skor&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📫 Let's Connect!
 
