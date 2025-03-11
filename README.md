@@ -30,6 +30,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=T4skor&theme=react-dark">
 </p>
 
+<!-- Contributions 3D Graph -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T4skor&theme=radical" alt="Streak Stats">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/T4skor/T4skor/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions Graph">
+</p>
+
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://github.com/T4skor/T4skor/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
