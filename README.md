@@ -1,7 +1,5 @@
 # Hello, I'm Pablo! 👋
 
-[![GitHub stars](https://img.shields.io/github/stars/T4skor?style=social)](https://github.com/T4skor) [![GitHub followers](https://img.shields.io/github/followers/T4skor?style=social)](https://github.com/T4skor)
-
 ## About Me
 
 I'm a **17-year-old student** currently studying **1st year of Baccalaureate in Spain**. I have a passion for technology, from coding in Python, JavaScript, and C++ to exploring 3D printing and server management. My goal is to learn as much as I can and apply my knowledge to real-world projects.
@@ -25,6 +23,8 @@ I'm a **17-year-old student** currently studying **1st year of Baccalaureate in 
   <img src="https://github-readme-stats.vercel.app/api?username=T4skor&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4skor&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </div>
+
+[![GitHub stars](https://img.shields.io/github/stars/T4skor?style=social)](https://github.com/T4skor) [![GitHub followers](https://img.shields.io/github/followers/T4skor?style=social)](https://github.com/T4skor)
 
 ## 🏆 GitHub Trophies
 
