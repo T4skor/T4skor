@@ -30,6 +30,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=T4skor&theme=react-dark">
 </p>
 
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://github.com/T4skor/T4skor/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
 ## 📫 Let's Connect!
 <p align="center">
   <a href="https://instagram.com/3d_t4skor">
