@@ -17,12 +17,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=T4skor&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4skor&layout=compact&theme=radical" width="48%">
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=T4skor&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4skor&layout=compact&theme=radical&cache_seconds=86400" width="48%">
 </p>
 
 ## 🔥 Latest Activity
