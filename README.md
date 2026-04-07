@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Pablo! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C92D&width=435&lines=17-year-old+Tech+Enthusiast;3D+Printing+%7C+Linux+%7C+Programming;Lover+of+Open+Source+%26+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C92D&width=435&lines=18-year-old+Tech+Enthusiast;3D+Printing+%7C+Linux+%7C+Programming;Lover+of+Open+Source+%26+Cybersecurity" alt="Typing SVG" />
 </p>
 
 ## 🚀 My Interests & Goals
