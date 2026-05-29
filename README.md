@@ -27,22 +27,34 @@
 
 ---
 
-## &#x1F4C8; GitHub Analytics
+## &#x1F6E0️; Tech Stack
 
-<p align="center">
-  <a href="https://github.com/T4skor">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T4skor&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4skor&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-  </a>
-</p>
+<details open>
+  <summary><b>💻 Languages & Frameworks</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,js,cpp,ts,html,css,react,nodejs,flask,bash" />
+  </p>
+</details>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T4skor&theme=radical&hide_border=true" width="70%" />
-</p>
+<details open>
+  <summary><b>🛠️ Tools & Platforms</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=linux,arch,debian,docker,git,github,blender,raspberrypi,nginx,postgres" />
+  </p>
+</details>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=T4skor&theme=react-dark&hide_border=true&area=true" width="95%" />
-</p>
+<details open>
+  <summary><b>🎯 Currently Learning</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  </p>
+</details>
 
 ---
 
