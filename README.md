@@ -10,29 +10,20 @@
 
 ## &#x2699; About Me
 
-```yaml
-name: Pablo
-alias: T4skor
-age: 18
-location: Spain
-languages:
-  - Spanish   (native)
-  - English   (advanced)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fusion_360-FF6600?style=flat-square&logo=autodesk&logoColor=white" />
+</p>
 
-focus:
-  - 3D Printing & Design
-  - Linux & Self-hosting
-  - Cybersecurity & Networking
-  - Open Source Software
-code:
-  - Python
-  - JavaScript
-  - C++
-tools:
-  - Blender, Fusion 360
-  - Docker, Nginx, Grafana
-  - Arch Linux, Debian, Proxmox
-```
+<p align="center">
+  🇪🇸 Spanish &nbsp;·&nbsp; 🇬🇧 English &nbsp;·&nbsp; 📍 Spain
+</p>
 
 ---
 
@@ -63,7 +54,7 @@ tools:
       <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="60"><br/>
       <b>3D Printing</b>
     </td>
-    <td>Designing and printing functional parts, cosplay props, and custom enclosures. Exploring SLA and FDM technologies.</td>
+    <td>Designing and printing functional parts, cosplay props, and custom enclosures. Always experimenting with new filaments and techniques.</td>
   </tr>
   <tr>
     <td align="center">
